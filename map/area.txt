@@ -613,7 +613,7 @@ svealand_area = { #3
 }
 
 ostra_svealand_area = { #4
-	1 4 1930
+	1 4 1930 4942
 }
 
 norrland_area = { #4
